@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Jakob Šrumpf
+
+- CS-IT student, Firefighter
+- Interested in microcontrollers and low level programming
+- Main: C, C++
+- SideStuff: Shell, Python, HTML, Java, CSS, PHP, JavaScript
 
 <!--
 **Kikanon/Kikanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
