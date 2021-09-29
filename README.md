@@ -3,6 +3,7 @@
 - CS-IT student, Firefighter
 - Interested in microcontrollers and low level programming
 - Main: C, C++
+- Work experience: Qt5, Mysql
 - SideStuff: Shell, Python, HTML, Java, CSS, PHP, JavaScript
 
 <!--
