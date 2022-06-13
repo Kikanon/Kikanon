@@ -3,8 +3,9 @@
 - CS-IT student, Firefighter
 - Interested in microcontrollers and low level programming
 - I like programming in : C++, Kotlin, NodeJS, Python
-- I also work in : C, Handlebars, HTML, Php, Java, C#, CSS
+- I also work in : C, Handlebars, HTML, Php, Java, C#, CSS, Shell
 - Work experience: Qt5, Mysql
+- I am interested in ...
 
 <!--
 **Kikanon/Kikanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
