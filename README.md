@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Jakob Šrumpf
+### Hi there 👋, I'm Jakob Šrumpf 💻🚒
 
 - CS-IT student, Firefighter
-- Interested in microcontrollers and low level programming
+- Interested in most types of programming and data science
 - I like programming in : C++, Kotlin, NodeJS, Python
 - I also work in : C, Handlebars, HTML, Php, Java, C#, CSS, Shell
 - Work experience: Qt5, Mysql
-- I am interested in ...
+- I'm quite bad at colors and graphical design in general 🎨
 
 <!--
 **Kikanon/Kikanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
