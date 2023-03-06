@@ -4,7 +4,7 @@
 - Interested in most types of programming and data science
 - I like programming in : C++, Kotlin, NodeJS, Python
 - I also work in : C, Handlebars, HTML, Php, Java, C#, CSS, Shell
-- Work experience: Qt5, Mysql
+- Work experience: Qt5, Mysql, VB.Net
 - I'm quite bad at colors and graphical design in general 🎨
 
 <!--
