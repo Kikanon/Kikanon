@@ -9,8 +9,8 @@ I am a graduate with a Bachelor's degree in Computer Science or Information Tech
 
 Despite my coding prowess, I'll admit that colors and graphical design aren't my strong suit 🎨, but I make up for it with my dedication, independence, and a thirst for gaining new knowledge and experiences. Currently, I'm in the exciting phase of writing my thesis as I approach the end of my studies at the Faculty of Electrical Engineering, Computer Science, and Informatics in Maribor.
 
-### Currently working on:
-- Finding a job
+### Currently working at:
+- Izoelektro
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=python,cs,c,cpp,qt,java,kotlin,html,php,css,js,ts,nextjs,nodejs,react,tailwind,mysql,postgresql,dotnet )](https://skillicons.dev)
 # Tools
