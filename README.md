@@ -4,12 +4,12 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Jakob Šrumpf 👋</h1>
+<h1 align="center">Hi, I'm Jakob Šrumpf 👋 and this page is outdated, will update whenever</h1>
 
 🎓 Bachelor of Science in Computer Science and Information Technologies  
 🔧 Full Stack Developer & Embedded Systems Engineer  
 📍 Based in Slovenia  
-💼 Currently working at **Izoelektro**  
+💼 Currently working at **SkyLabs**  
 🛠️ Skilled in building Android apps, web platforms, and embedded firmware (nRF91 + Zephyr RTOS)
 
 ---
